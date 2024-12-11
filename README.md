@@ -2,7 +2,7 @@
 
 I'm a future developer from México, focusing my learnings to Rust and C#
 
-neovim and emacs enjoyer and also love games!
+FOSS enjoyer and also love games!
 
 ## Languages and tools i use
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -13,5 +13,5 @@ neovim and emacs enjoyer and also love games!
 
 You can find my configs [here](https://github.com/AvatoAvenue/Usnar)
 
-You can find me [here](#todo)
+You can find me [here](https://linktr.ee/avato)
 - Or reach me [✉️](usnaravenue@gmail.com)
