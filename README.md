@@ -14,4 +14,4 @@ FOSS enjoyer and also love games!
 You can find my configs [here](https://github.com/AvatoAvenue/Usnar)
 
 You can find me [here](https://linktr.ee/avato)
-- Or reach me [✉️](usnaravenue@gmail.com)
+- Or reach me on ✉️ usnaravenue@gmail.com
